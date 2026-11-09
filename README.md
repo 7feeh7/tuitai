@@ -1,4 +1,4 @@
-# tuit
+# tuitai
 
 Backend de rede social inspirado no Twitter, com arquitetura hexagonal (Ports & Adapters), princípios SOLID e Clean Code.
 Inclui cache com Redis para timeline e banco de dados MongoDB para persistência de dados.
